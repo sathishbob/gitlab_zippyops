@@ -1,0 +1,20 @@
+From 4d0788ac45a63162bc52f6c187c5b4f7cb02196e Mon Sep 17 00:00:00 2001
+From: userb <userb@zippyops.com>
+Date: Fri, 2 Nov 2018 00:30:22 -0400
+Subject: [PATCH] testing patch
+
+---
+ patch.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch.txt
+
+diff --git a/patch.txt b/patch.txt
+new file mode 100644
+index 0000000..3353eae
+--- /dev/null
++++ b/patch.txt
+@@ -0,0 +1 @@
++testing patch
+-- 
+1.8.3.1
+
